@@ -5,7 +5,7 @@ export default function Home() {
     <div className="min-h-screen bg-[#FFF7F0] flex flex-col items-center justify-between p-8 sm:p-16 text-gray-800 font-sans">
       {/* HEADER */}
       <header className="text-center">
-        <h1 className="text-4xl font-bold text-[#FF8BA7] mb-2">NUTRICERAL</h1>
+        <h1 className="text-4xl font-bold text-[#FF8BA7] mb-2">NUTRICERIAL</h1>
         <p className="text-lg max-w-xl text-[#6B7280]">
           Desde la perspectiva de la ingeniería agronómica, te damos la
           bienvenida a este espacio en donde podrás descubrir información
@@ -55,7 +55,7 @@ export default function Home() {
 
       {/* FOOTER */}
       <footer className="mt-16 text-center text-sm text-gray-400">
-        © 2025 NUTRICERAL. Todos los derechos reservados.
+        © 2025 NUTRICERIAL. Todos los derechos reservados.
       </footer>
     </div>
   );
