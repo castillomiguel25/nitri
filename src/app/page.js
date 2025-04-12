@@ -40,9 +40,9 @@ export default function Home() {
             producción de cereales en Venezuela o tal vez sobre algún cereal en
             específico?
           </p>
-          <button className="text-blue-400 cursor-pointer mt-4 self-start">
+          {/* <button className="text-blue-400 cursor-pointer mt-4 self-start">
             <Link href="/productos">Haz click aquí.</Link>
-          </button>
+          </button> */}
         </div>
 
         {/* Tarjeta 2 */}
